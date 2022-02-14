@@ -1,0 +1,99 @@
+{
+    "product-1" : [
+        {
+          "id" : 11,
+          "name" : "OPPO f19",
+          "photo" : "https://dalalplus.com/public/uploads/all/vjTjfsCcfS5w0hKWH6D2CMZt03IG0dVAoQnOySZL.jpg",
+          "price" : "$120"
+        },
+        {
+          "id" : 12,
+          "name" : "OPPO f19 Pro",
+          "photo" : "https://dalalplus.com/public/uploads/all/AfC1ddeBo7NbvR77uzUR8RH3Yn1zhQIGjz2K1dr8.jpg",
+          "price" : "$130"
+        },
+        {
+          "id" : 13,
+          "name" : "OPPO K9",
+          "photo" : "https://dalalplus.com/public/uploads/all/sdZ10kx3I1t0jpaqLZJxFJw3pJ8hhICaJoBdYiJF.jpg",
+          "price" : "$120"
+        },
+        {
+          "id" : 14,
+          "name" : "OPPO K9 5G",
+          "photo" : "https://dalalplus.com/public/uploads/all/lkjsW7q7Cgqc0dHNCsWCwdt5HLCg5MTTGIkY1pcr.jpg",
+          "price" : "$120"
+        },
+        {
+          "id" : 15,
+          "name" : "OPPO Reno 5",
+          "photo" : "https://dalalplus.com/public/uploads/all/vRHK6teUOgV7vAjsnoVvJCj0LSDO6YWzyp0ucnbF.jpg",
+          "price" : "$120"
+        },
+        {
+          "id" : 16,
+          "name" : "OPPO A16",
+          "photo" : "https://dalalplus.com/public/uploads/all/qhSd4DrE0TnLNu79iaJqXy5vPnremqGHEsadNRJG.jpg",
+          "price" : "$105"
+        }
+
+    ],
+    "product-2" : [
+        {
+          "id" : 17,
+          "name" : "Casual Shoe ART-1160C02",
+          "photo" : "https://dalalplus.com/public/uploads/all/hqXlb6jtKq5oWrwYb56DmBBT65B1NejsKEqRszm7.jpg",
+          "price" : "$15"
+        },
+        {
+          "id" : 18,
+          "name" : "Casual Shoe ART-1162",
+          "photo" : "https://dalalplus.com/public/uploads/all/wtF9JmTNU8ZbpvsJfbbbPqm09SO0X5FvSpY9dZsi.jpg",
+          "price" : "$20"
+        },
+        {
+          "id" : 19,
+          "name" : "Casual Shoe ART-1354",
+          "photo" : "https://dalalplus.com/public/uploads/all/2xBINAHwBwGzCMITnlwVlDvtMsKeMasGwcB971ls.jpg",
+          "price" : "$18"
+        },
+        {
+          "id" : 20,
+          "name" : "Casual Shoe ART-1354",
+          "photo" : "https://dalalplus.com/public/uploads/all/2WIwSCdvIzjKWOKeronx9P2hSmAIpyVaUyJE64M6.jpg",
+          "price" : "$30"
+        },
+        {
+          "id" : 21,
+          "name" : "Ladies Loafer ART-2110A07",
+          "photo" : "https://dalalplus.com/public/uploads/all/8hWEmzXB9KdKxFZJktNH5m1zbTQF85Sj1MlUIkt3.jpg",
+          "price" : "$25"
+        },
+        {
+          "id" : 22,
+          "name" : "Ladies Loafer ART-2110A08",
+          "photo" : "https://dalalplus.com/public/uploads/all/9m0hBj8RfGshwusM0d2PyFF8mTeXRTKeNCa8VxzW.jpg",
+          "price" : "$40"
+        }
+    ],
+
+
+    "category" : [
+        {
+            "categori-1" : "Smart-phone",
+            "categori-2" : "Shoes",
+            "categori-3" : "Motorcycle"
+
+        }
+    ],
+    "brands" : [
+        {
+            "brand-1" : "OPPO",
+            "brand-2" : "Samsung",
+            "brand-3" : "Pulser",
+            "brand-4" : "TVS",
+            "brand-5" : "SUZUKI"
+        }
+    ]
+
+}
