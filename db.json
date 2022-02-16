@@ -35,10 +35,7 @@
           "name" : "OPPO A16",
           "photo" : "https://dalalplus.com/public/uploads/all/qhSd4DrE0TnLNu79iaJqXy5vPnremqGHEsadNRJG.jpg",
           "price" : "$105"
-        }
-
-    ],
-    "product-2" : [
+        },
         {
           "id" : 17,
           "name" : "Casual Shoe ART-1160C02",
@@ -75,25 +72,39 @@
           "photo" : "https://dalalplus.com/public/uploads/all/9m0hBj8RfGshwusM0d2PyFF8mTeXRTKeNCa8VxzW.jpg",
           "price" : "$40"
         }
+
     ],
-
-
+   
     "category" : [
-        {
-            "categori-1" : "Smart-phone",
-            "categori-2" : "Shoes",
-            "categori-3" : "Motorcycle"
 
-        }
+      {
+        "categori-1" : "Smart-phone"
+      },
+      {
+        "categori-2" : "Shoes"
+      },
+      {
+        "categori-3" : "Motorcycle"
+      }
+        
     ],
     "brands" : [
-        {
-            "brand-1" : "OPPO",
-            "brand-2" : "Samsung",
-            "brand-3" : "Pulser",
-            "brand-4" : "TVS",
-            "brand-5" : "SUZUKI"
-        }
+      {
+        "brand-1" : "OPPO"
+      },
+      {
+        "brand-2" :"Samsung"
+      },
+      {
+        "brand-3" :"Pulser"
+      },
+      {
+        "brand-4" :"TVS"
+      },
+      {
+        "brand-5" :"SUZUKI"
+      }
+       
     ]
 
 }
