@@ -4,73 +4,122 @@
           "id" : 1,
           "name" : "OPPO f19",
           "photo" : "https://dalalplus.com/public/uploads/all/vjTjfsCcfS5w0hKWH6D2CMZt03IG0dVAoQnOySZL.jpg",
-          "price" : "$120"
+          "price" : "$120",
+          "category" : "smart-phone",
+          "brand" : "OPPO"
         },
         {
           "id" : 2,
           "name" : "OPPO f19 Pro",
           "photo" : "https://dalalplus.com/public/uploads/all/AfC1ddeBo7NbvR77uzUR8RH3Yn1zhQIGjz2K1dr8.jpg",
-          "price" : "$130"
+          "price" : "$130",
+          "category" : "smart-phone",
+          "brand" : "OPPO"
         },
         {
           "id" : 3,
           "name" : "OPPO K9",
           "photo" : "https://dalalplus.com/public/uploads/all/sdZ10kx3I1t0jpaqLZJxFJw3pJ8hhICaJoBdYiJF.jpg",
-          "price" : "$120"
+          "price" : "$120",
+          "category" : "smart-phone",
+          "brand" : "OPPO"
         },
         {
           "id" : 4,
           "name" : "OPPO K9 5G",
           "photo" : "https://dalalplus.com/public/uploads/all/lkjsW7q7Cgqc0dHNCsWCwdt5HLCg5MTTGIkY1pcr.jpg",
-          "price" : "$120"
+          "price" : "$120",
+          "category" : "smart-phone",
+          "brand" : "OPPO"
         },
         {
           "id" : 5,
           "name" : "OPPO Reno 5",
           "photo" : "https://dalalplus.com/public/uploads/all/vRHK6teUOgV7vAjsnoVvJCj0LSDO6YWzyp0ucnbF.jpg",
-          "price" : "$120"
+          "price" : "$120",
+          "category" : "smart-phone",
+          "brand" : "OPPO"
         },
         {
           "id" : 6,
           "name" : "OPPO A16",
           "photo" : "https://dalalplus.com/public/uploads/all/qhSd4DrE0TnLNu79iaJqXy5vPnremqGHEsadNRJG.jpg",
-          "price" : "$105"
+          "price" : "$105",
+          "category" : "smart-phone",
+          "brand" : "OPPO"
         },
         {
           "id" : 7,
           "name" : "Casual Shoe ART-1160C02",
           "photo" : "https://dalalplus.com/public/uploads/all/hqXlb6jtKq5oWrwYb56DmBBT65B1NejsKEqRszm7.jpg",
-          "price" : "$15"
+          "price" : "$15",
+          "category" : "Shoes",
+          "brand" : "Lotte"
         },
         {
           "id" : 8,
           "name" : "Casual Shoe ART-1162",
           "photo" : "https://dalalplus.com/public/uploads/all/wtF9JmTNU8ZbpvsJfbbbPqm09SO0X5FvSpY9dZsi.jpg",
-          "price" : "$20"
+          "price" : "$20",
+          "category" : "Shoes",
+          "brand" : "Lotte"
         },
         {
           "id" : 9,
           "name" : "Casual Shoe ART-1354",
           "photo" : "https://dalalplus.com/public/uploads/all/2xBINAHwBwGzCMITnlwVlDvtMsKeMasGwcB971ls.jpg",
-          "price" : "$18"
+          "price" : "$18",
+          "category" : "Shoes",
+          "brand" : "Bata"
         },
         {
           "id" : 10,
           "name" : "Casual Shoe ART-1354",
           "photo" : "https://dalalplus.com/public/uploads/all/2WIwSCdvIzjKWOKeronx9P2hSmAIpyVaUyJE64M6.jpg",
-          "price" : "$30"
+          "price" : "$30",
+          "category" : "Shoes",
+          "brand" : "Paye Paye"
         },
         {
           "id" : 11,
           "name" : "Ladies Loafer ART-2110A07",
           "photo" : "https://dalalplus.com/public/uploads/all/8hWEmzXB9KdKxFZJktNH5m1zbTQF85Sj1MlUIkt3.jpg",
-          "price" : "$25"
+          "price" : "$25",
+          "category" : "Shoes",
+          "brand" : "Bata"
         },
         {
           "id" : 12,
           "name" : "Ladies Loafer ART-2110A08",
           "photo" : "https://dalalplus.com/public/uploads/all/9m0hBj8RfGshwusM0d2PyFF8mTeXRTKeNCa8VxzW.jpg",
-          "price" : "$40"
+          "price" : "$40",
+          "category" : "Shoes",
+          "brand" : "Paye Paye"
+        },
+
+        {
+          "id" : 13,
+          "name" : "Apache RTR 4v ",
+          "photo" : "https://media.zigcdn.com/media/content/2021/Jun/2021-tvs-apache-rtr-160-4v-road-test-review-a-stark-improvement-1_560x420.jpg",
+          "price" : "$40",
+          "category" : "Motor-cycle",
+          "brand" : "TVS"
+        },
+        {
+          "id" : 14,
+          "name" : "Suzki gixxer sf",
+          "photo" : "https://financialexpresswpcontent.s3.amazonaws.com/uploads/2019/05/3-63.jpg",
+          "price" : "$1150",
+          "category" : "Motor-cycle",
+          "brand" : "Suzuki"
+        },
+        {
+          "id" : 15,
+          "name" : "Pulser twin disc 150cc",
+          "photo" : "https://cdn.bajajauto.com/-/media/Images/bajajauto/brands/bajaj-bikes/pulsar/pulsar-150/design/small-feature/Design-mob.ashx",
+          "price" : "$1040",
+          "category" : "Motor-cycle",
+          "brand" : "Pulser"
         }
 
     ],
